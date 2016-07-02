@@ -1,2 +1,2 @@
 # TTOConfig.ini
-## credit to Dazer of the hd community
+credit to Dazer of the hd community
